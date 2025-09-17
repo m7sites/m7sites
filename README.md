@@ -1,8 +1,8 @@
-# 👋 Hey, I’m Mohamed "Outgoes" Almarzouqi
+# 👋 Hey, I’m Mohamed Almarzooqi
 
-🚀 **Full-Stack Developer & AI Enthusiast** | Building self-projects using **C# & C++ AI**, websites, and automation tools.  
+🚀 **Full-Stack Developer & AI Enthusiast** | Building self-projects using **C# & C++ **, websites, and automation tools.  
 
-🎯 Currently working on **SwiftLag VPN**, **OptiCore Automation**, and **AppLPy.net**.  
+🎯 Improving  **AppLPy.net**.  
 
 ---
 
