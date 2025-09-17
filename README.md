@@ -39,9 +39,11 @@
 </p>
 
 ---
-
+<center>
 ## 🧰 Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[AppLPy.net](https://applpy.net)** | Control your device through our Website | PHP, JS, CSS |
+
+</center>
 
