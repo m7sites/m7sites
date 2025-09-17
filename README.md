@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Mohamed Almarzooqi
 
-🚀 **Full-Stack Developer & AI Enthusiast** | Building self-projects using **C# & C++ **, websites, and automation tools.  
+🚀 **Full-Stack Developer & AI Enthusiast** | Building self-projects using **C# & C++**, websites, and automation tools.  
 
 🎯 Improving  **AppLPy.net**.  
 
