@@ -47,22 +47,14 @@
 
 ---
 
-## 🧰 Featured Projects
+## 🧰 Projects
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[SwiftLag VPN](https://swiftlag.net)** | Split-tunnel VPN app | C# |
-| **[OptiCore](https://opticore.net)** | Automation & optimization suite | C#, .NET |
-| **[AppLPy.net](https://applpy.net)** | Custom app builder website | PHP, JS, CSS |
-| **AI IELTS Tutor** | AI tutor built in C# + C++ | C#, C++ |
+| **[AppLPy.net](https://applpy.net)** | Control your device through our Website | PHP, JS, CSS |
+
 
 ---
 
-## 💡 Fun Facts
-- Built an **AI tutor** that helps practice IELTS using **C# and C++**.
-- Can automate installs of multiple apps in **seconds** using my own **OptiCore** tool.
-- Obsessed with **clean UI designs** & responsive apps.
-
----
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" />
