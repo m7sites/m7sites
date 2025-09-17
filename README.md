@@ -40,22 +40,8 @@
 
 ---
 
-## 🔥 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/outgoes/count.svg" />
-</p>
-
----
-
 ## 🧰 Projects
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[AppLPy.net](https://applpy.net)** | Control your device through our Website | PHP, JS, CSS |
 
-
----
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="300" />
-</p>
