@@ -41,9 +41,9 @@
 ---
 
 ## 🧰 Projects
-| Project | Description | Tech |
+| Project | Description | Langs |
 |---------|-------------|------|
-| **[AppLPy.net](https://applpy.net)** | Control your device through our Website | PHP, JS, CSS |
+| **[AppLPy.net](https://applpy.net)** | Control your device through our Website | C++, PHP, CSS |
 
 
 
